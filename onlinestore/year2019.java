@@ -328,14 +328,7 @@ class Suzuki_Swift_2019 extends Fourwheeler2019 {
 	}
 }
 
-class over extends Fourwheeler2019 {
-	public over(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1230);
-		System.out.println("Star Rating:" + 2);
-		System.out.println("BUY NOW");
-	}
-}
+
 
 class Suzuki_brezza_2019 extends Fourwheeler2019 {
 	public Suzuki_brezza_2019(String name) {
@@ -391,14 +384,6 @@ class SOMA extends TwoWheeler2019 {
 	}
 }
 
-class Gears extends TwoWheeler2019 {
-	public Gears(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 123066);
-		System.out.println("Star Rating:" + 3);
-		System.out.println("BUY NOW");
-	}
-}
 
 class mahindra2 extends TwoWheeler2019 {
 	public mahindra2(String name) {
@@ -409,23 +394,7 @@ class mahindra2 extends TwoWheeler2019 {
 	}
 }
 
-class Evolve22 extends Fourwheeler2019 {
-	public Evolve22(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 800);
-		System.out.println("Star Rating:" + 4);
-		System.out.println("BUY NOW");
-	}
-}
 
-class live extends Fourwheeler2019 {
-	public live(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 800);
-		System.out.println("Star Rating:" + 3);
-		System.out.println("BUY NOW");
-	}
-}
 
 class Ferrari extends Fourwheeler2019 {
 	public Ferrari(String name) {
@@ -454,14 +423,6 @@ class bmw extends Fourwheeler2019 {
 	}
 }
 
-class nos extends Fourwheeler2019 {
-	public nos(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1000);
-		System.out.println("Star Rating:" + 3);
-		System.out.println("BUY NOW");
-	}
-}
 
 class suzuki extends TwoWheeler2019 {
 	public suzuki(String name) {
@@ -481,11 +442,3 @@ class Mahindra extends TwoWheeler2019 {
 	}
 }
 
-class Fifas extends Fourwheeler2019 {
-	public Fifas(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 100000);
-		System.out.println("Star Rating:" + 3);
-		System.out.println("BUY NOW");
-	}
-}

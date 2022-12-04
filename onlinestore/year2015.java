@@ -272,23 +272,7 @@ class Mahindra_bolero_2015 extends Fourwheeler2015 {
 	}
 }
 
-class Undertable extends TwoWheeler2015 {
-	public Undertable(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 800);
-		System.out.println("Star Rating:" + 4);
-		System.out.println("BUY NOW");
-	}
-}
 
-class execar extends TwoWheeler2015 {
-	public execar(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1200);
-		System.out.println("Star Rating:" + 4);
-		System.out.println("BUY NOW");
-	}
-}
 
 class Suzuki_wagonr_2015 extends Fourwheeler2015 {
 	public Suzuki_wagonr_2015(String name) {
@@ -299,26 +283,9 @@ class Suzuki_wagonr_2015 extends Fourwheeler2015 {
 	}
 }
 
-class Dying extends TwoWheeler2015 {
-	public Dying(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1500);
-		System.out.println("Star Rating:" + 5);
-		System.out.println("BUY NOW");
-	}
-}
 
 class tvs extends TwoWheeler2015 {
 	public tvs(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1000);
-		System.out.println("Star Rating:" + 3);
-		System.out.println("BUY NOW");
-	}
-}
-
-class omega extends TwoWheeler2015 {
-	public omega(String name) {
 		System.out.println("Name:" + name);
 		System.out.println("Price:" + 1000);
 		System.out.println("Star Rating:" + 3);
@@ -335,14 +302,6 @@ class Suzuki_Swift_2015 extends Fourwheeler2015 {
 	}
 }
 
-class over extends Fourwheeler2015 {
-	public over(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1230);
-		System.out.println("Star Rating:" + 2);
-		System.out.println("BUY NOW");
-	}
-}
 
 class Suzuki_vitara_2015 extends Fourwheeler2015 {
 	public Suzuki_vitara_2015(String name) {
@@ -353,14 +312,6 @@ class Suzuki_vitara_2015 extends Fourwheeler2015 {
 	}
 }
 
-class Divinity extends TwoWheeler2015 {
-	public Divinity(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1500);
-		System.out.println("Star Rating:" + 4);
-		System.out.println("BUY NOW");
-	}
-}
 
 class Toyota_fortuner_2015 extends Fourwheeler2015 {
 	public Toyota_fortuner_2015(String name) {
@@ -380,73 +331,12 @@ class Suzuki_alto_800 extends Fourwheeler2015 {
 	}
 }
 
-class luna extends Fourwheeler2015 {
-	public luna(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 80000);
-		System.out.println("Star Rating:" + 3);
-		System.out.println("BUY NOW");
-	}
-}
 
-class SOMA extends TwoWheeler2015 {
-	public SOMA(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 80012);
-		System.out.println("Star Rating:" + 3);
-		System.out.println("BUY NOW");
-	}
-}
-
-class Gears extends TwoWheeler2015 {
-	public Gears(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 123066);
-		System.out.println("Star Rating:" + 3);
-		System.out.println("BUY NOW");
-	}
-}
-
-class mahindra2 extends TwoWheeler2015 {
-	public mahindra2(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1800);
-		System.out.println("Star Rating:" + 3);
-		System.out.println("BUY NOW");
-	}
-}
-
-class Evolve22 extends Fourwheeler2015 {
-	public Evolve22(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 800);
-		System.out.println("Star Rating:" + 4);
-		System.out.println("BUY NOW");
-	}
-}
-
-class live extends Fourwheeler2015 {
-	public live(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 800);
-		System.out.println("Star Rating:" + 3);
-		System.out.println("BUY NOW");
-	}
-}
 
 class Ferrari extends Fourwheeler2015 {
 	public Ferrari(String name) {
 		System.out.println("Name:" + name);
 		System.out.println("Price:" + 1000);
-		System.out.println("Star Rating:" + 3);
-		System.out.println("BUY NOW");
-	}
-}
-
-class tvf extends TwoWheeler2015 {
-	public tvf(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 100200);
 		System.out.println("Star Rating:" + 3);
 		System.out.println("BUY NOW");
 	}
@@ -461,14 +351,6 @@ class bmw extends Fourwheeler2015 {
 	}
 }
 
-class nos extends Fourwheeler2015 {
-	public nos(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1000);
-		System.out.println("Star Rating:" + 3);
-		System.out.println("BUY NOW");
-	}
-}
 
 class suzuki extends TwoWheeler2015 {
 	public suzuki(String name) {
@@ -488,11 +370,3 @@ class Mahindra extends TwoWheeler2015 {
 	}
 }
 
-class Fifas extends Fourwheeler2015 {
-	public Fifas(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 100000);
-		System.out.println("Star Rating:" + 3);
-		System.out.println("BUY NOW");
-	}
-}

@@ -238,14 +238,7 @@ class Yamaha_rx100_2018 extends Twowheeler2018 {
 	}
 }
 
-class Magane_k200_2018 extends Twowheeler2018 {
-	public Magane_k200_2018(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 150000);
-		System.out.println("Star Rating:" + 5);
-		System.out.println("BUY NOW");
-	}
-}
+
 
 class ford_Mustang_2018 extends Twowheeler2018 {
 	public ford_Mustang_2018(String name) {
@@ -283,14 +276,7 @@ class Toyota_innova_2018 extends Twowheeler2018 {
 	}
 }
 
-class Banners extends Twowheeler2018 {
-	public Banners(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 800);
-		System.out.println("Star Rating:" + 3);
-		System.out.println("BUY NOW");
-	}
-}
+
 
 class Toyota_innovacrista_2018 extends Twowheeler2018 {
 	public Toyota_innovacrista_2018(String name) {
@@ -301,41 +287,7 @@ class Toyota_innovacrista_2018 extends Twowheeler2018 {
 	}
 }
 
-class TheDivision extends Twowheeler2018 {
-	public TheDivision(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 800);
-		System.out.println("Star Rating:" + 4);
-		System.out.println("BUY NOW");
-	}
-}
 
-class WorldOfcar extends Twowheeler2018 {
-	public WorldOfcar(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1000);
-		System.out.println("Star Rating:" + 3);
-		System.out.println("BUY NOW");
-	}
-}
-
-class Oxen extends Twowheeler2018 {
-	public Oxen(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1000);
-		System.out.println("Star Rating:" + 3);
-		System.out.println("BUY NOW");
-	}
-}
-
-class Owlboyrider extends Twowheeler2018 {
-	public Owlboyrider(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1500);
-		System.out.println("Star Rating:" + 3);
-		System.out.println("BUY NOW");
-	}
-}
 
 class porche extends Twowheeler2018 {
 	public porche(String name) {
@@ -364,50 +316,6 @@ class PonyIsland extends Twowheeler2018 {
 	}
 }
 
-class ElderScrollsrider extends Twowheeler2018 {
-	public ElderScrollsrider(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1500);
-		System.out.println("Star Rating:" + 5);
-		System.out.println("BUY NOW");
-	}
-}
-
-class Thumperscar extends Twowheeler2018 {
-	public Thumperscar(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1000);
-		System.out.println("Star Rating:" + 4);
-		System.out.println("BUY NOW");
-	}
-}
-
-class Quantumcar extends Twowheeler2018 {
-	public Quantumcar(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1200);
-		System.out.println("Star Rating:" + 3);
-		System.out.println("BUY NOW");
-	}
-}
-
-class JobSimulator extends Twowheeler2018 {
-	public JobSimulator(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1200);
-		System.out.println("Star Rating:" + 4);
-		System.out.println("BUY NOW");
-	}
-}
-
-class DeadRider extends Twowheeler2018 {
-	public DeadRider(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1200);
-		System.out.println("Star Rating:" + 4);
-		System.out.println("BUY NOW");
-	}
-}
 
 class Obductionbikes extends Twowheeler2018 {
 	public Obductionbikes(String name) {
@@ -418,23 +326,6 @@ class Obductionbikes extends Twowheeler2018 {
 	}
 }
 
-class Uncharted4_Theifend extends Twowheeler2018 {
-	public Uncharted4_Theifend(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1300);
-		System.out.println("Star Rating:" + 5);
-		System.out.println("BUY NOW");
-	}
-}
-
-class MirrorEdge extends Twowheeler2018 {
-	public MirrorEdge(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1000);
-		System.out.println("Star Rating:" + 4);
-		System.out.println("BUY NOW");
-	}
-}
 
 class Tata_tigar_2018 extends Fourwheeler2018 {
 	public Tata_tigar_2018(String name) {
@@ -445,14 +336,6 @@ class Tata_tigar_2018 extends Fourwheeler2018 {
 	}
 }
 
-class Batmancar extends Twowheeler2018 {
-	public Batmancar(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1000);
-		System.out.println("Star Rating:" + 4);
-		System.out.println("BUY NOW");
-	}
-}
 
 class ferrari extends Twowheeler2018 {
 	public ferrari(String name) {

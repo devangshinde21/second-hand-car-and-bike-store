@@ -265,29 +265,12 @@ class Suzuki_vitara_2016 extends Twowheeler2016 {
 	}
 }
 
-class lolos extends Twowheeler2016 {
-	public lolos(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1800);
-		System.out.println("Star Rating:" + 4);
-		System.out.println("BUY NOW");
-	}
-}
 
 class Toyota_innova_2016 extends Twowheeler2016 {
 	public Toyota_innova_2016(String name) {
 		System.out.println("Name:" + name);
 		System.out.println("Price:" + 1300000);
 		System.out.println("Star Rating:" + 4);
-		System.out.println("BUY NOW");
-	}
-}
-
-class Banners extends Twowheeler2016 {
-	public Banners(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 800);
-		System.out.println("Star Rating:" + 3);
 		System.out.println("BUY NOW");
 	}
 }
@@ -301,140 +284,7 @@ class Toyota_innovacrista_2016 extends Twowheeler2016 {
 	}
 }
 
-class TheDivision extends Twowheeler2016 {
-	public TheDivision(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 800);
-		System.out.println("Star Rating:" + 4);
-		System.out.println("BUY NOW");
-	}
-}
 
-class WorldOfcar extends Twowheeler2016 {
-	public WorldOfcar(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1000);
-		System.out.println("Star Rating:" + 3);
-		System.out.println("BUY NOW");
-	}
-}
-
-class Oxen extends Twowheeler2016 {
-	public Oxen(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1000);
-		System.out.println("Star Rating:" + 3);
-		System.out.println("BUY NOW");
-	}
-}
-
-class Owlboyrider extends Twowheeler2016 {
-	public Owlboyrider(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1500);
-		System.out.println("Star Rating:" + 3);
-		System.out.println("BUY NOW");
-	}
-}
-
-class porche extends Twowheeler2016 {
-	public porche(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1800);
-		System.out.println("Star Rating:" + 4);
-		System.out.println("BUY NOW");
-	}
-}
-
-class Tata_tiagos_2016 extends Fourwheeler2016 {
-	public Tata_tiagos_2016(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1500000);
-		System.out.println("Star Rating:" + 3);
-		System.out.println("BUY NOW");
-	}
-}
-
-class PonyIsland extends Twowheeler2016 {
-	public PonyIsland(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1000);
-		System.out.println("Star Rating:" + 3);
-		System.out.println("BUY NOW");
-	}
-}
-
-class ElderScrollsrider extends Twowheeler2016 {
-	public ElderScrollsrider(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1500);
-		System.out.println("Star Rating:" + 5);
-		System.out.println("BUY NOW");
-	}
-}
-
-class Thumperscar extends Twowheeler2016 {
-	public Thumperscar(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1000);
-		System.out.println("Star Rating:" + 4);
-		System.out.println("BUY NOW");
-	}
-}
-
-class Quantumcar extends Twowheeler2016 {
-	public Quantumcar(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1200);
-		System.out.println("Star Rating:" + 3);
-		System.out.println("BUY NOW");
-	}
-}
-
-class JobSimulator extends Twowheeler2016 {
-	public JobSimulator(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1200);
-		System.out.println("Star Rating:" + 4);
-		System.out.println("BUY NOW");
-	}
-}
-
-class DeadRider extends Twowheeler2016 {
-	public DeadRider(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1200);
-		System.out.println("Star Rating:" + 4);
-		System.out.println("BUY NOW");
-	}
-}
-
-class Obductionbikes extends Twowheeler2016 {
-	public Obductionbikes(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1300);
-		System.out.println("Star Rating:" + 3);
-		System.out.println("BUY NOW");
-	}
-}
-
-class Uncharted4_Theifend extends Twowheeler2016 {
-	public Uncharted4_Theifend(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1300);
-		System.out.println("Star Rating:" + 5);
-		System.out.println("BUY NOW");
-	}
-}
-
-class MirrorEdge extends Twowheeler2016 {
-	public MirrorEdge(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1000);
-		System.out.println("Star Rating:" + 4);
-		System.out.println("BUY NOW");
-	}
-}
 
 class Tata_tigar_2016 extends Fourwheeler2016 {
 	public Tata_tigar_2016(String name) {
@@ -445,14 +295,6 @@ class Tata_tigar_2016 extends Fourwheeler2016 {
 	}
 }
 
-class Batmancar extends Twowheeler2016 {
-	public Batmancar(String name) {
-		System.out.println("Name:" + name);
-		System.out.println("Price:" + 1000);
-		System.out.println("Star Rating:" + 4);
-		System.out.println("BUY NOW");
-	}
-}
 
 class ferrari extends Twowheeler2016 {
 	public ferrari(String name) {
